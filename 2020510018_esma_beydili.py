@@ -5,7 +5,7 @@ Created on Sun Dec 26 13:49:47 2021
 @author: Hp
 """
 
-#birinci fonksiyonun çalışması yaklaşık olarak 8 dk sürüyor.
+#birinci fonksiyonun çalışması yaklaşık olarak 8 dk sürüyor
 #ikinci fonksiyonun çalışması yaklaşık  18 dk sürüyor.
 def Word_Order_Frequency_One_Book (Book, Word_Order, File_Output="missing.txt"):
     
